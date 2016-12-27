@@ -5,3 +5,5 @@ Basic KivyMD set-up and trying to change elevation of widgets.
 Specifically trying to:
 - `MDAccordion` same elevation as `MDBottomNavigation`
 - No shadow from `MDTabbedPanel` on `SingleLineTextField` and `MDRaisedButton` (lower elevation)
+
+![MDWidget casting shadow through elevation](KivyMD_elevation-shadow_arrow.png)
